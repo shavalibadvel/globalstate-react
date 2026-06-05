@@ -12,6 +12,6 @@ const data = [
     completed: true,
   },
 ];
-// this is basic data for doing something
+// this is basic data for doing something for display
 
 export default data;
